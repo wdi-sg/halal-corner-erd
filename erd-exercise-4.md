@@ -35,3 +35,7 @@ We want to find out, for the top 5 gym machines, which are the top 5 members usi
 2. Create the SQL code for tables and columns
 3. Create the SQL queries
 
+<details github-only><hint>Clicky Hint</hint>
+Hint: Joins, foreign keys, many to many
+</details>
+
