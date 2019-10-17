@@ -1,5 +1,7 @@
 # Asyraf’s Halal Corner - Entity Relationship Diagram (ERD) 
 
+![https://media.giphy.com/media/SKqVXl0LKqJvq/giphy.gif](https://media.giphy.com/media/SKqVXl0LKqJvq/giphy.gif)
+
 Asyraf has contracted developers to digitize workflows, streamline processes and enable data driven KPIs.
 
 You are now the developer for their backend. We have written specifications for you.
