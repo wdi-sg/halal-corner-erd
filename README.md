@@ -51,10 +51,17 @@ There are Promotional Food Items that will appear on The Menu on Tuesday to Frid
 At 6pm each day, the store has to be able to tell that their Ingredients are still sufficient for the food making until the next 6pm.
 
 #### further
-
-
 And we want to know when to order the ingredients again.
 
+#### further
+
+Write seed data and queries for:
+
+- Number of Customers who like prata and ayam penyet
+- Number of Customers who changed from always getting prata to getting ayam penyet
+- Which is the most popular food?
+- What are the rankings of the top 10 food?
+- What is the profit for this month?
 
 #### further
 
