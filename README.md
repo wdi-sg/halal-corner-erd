@@ -36,9 +36,9 @@ We want to enable Customers to be able to choose `Food Items` from The Menu, add
 Work backwards by first imagining the pages that will display the data needed for each step of the user flow.
 
 Example
-- User sees menu items
-- User clicks to add to cart, sees items in cart
-- User Checks out and pays
+- Customer sees menu items
+- Customer clicks to add to cart, sees items in cart
+- Customer Checks out and pays
 - Kitchen Staff sees order and fulfills it.
 
 #### further
