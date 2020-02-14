@@ -6,42 +6,40 @@ Asyraf has contracted developers to digitize workflows, streamline processes and
 
 You are now the developer for their backend. We have written specifications for you.
 
+We are implementing a self-checkout kiosk ordering system. (like at McDonalds) And a POS system that organizes the orders.
+
 Note: Not all of the required columns / data are explicitly listed as a specification.
-
-* Think of tables
-* Think of columns
-* Think of relationships
-
-### Basic Deliverables
-
-We are implementing an self-checkout kiosk ordering system. (like at mc donalds) And a POS system that organizes the orders.
-
-We want to enable Customers to be able to choose `Food Items` from The Menu, add to the `Cart`, which has many Food Items, then see the ones chosen, then checkout and `Pay`.
-
-### How to Start
 
 You will not be writing any javascript for this exercise, only SQL.
 
+### How to Start
+
+Some guidelines
+* For each of these pages what kind of data do you need to store and display? (`SELECT` and `INSERT` queries)
+
+* Draw the ERD with the tables and columns and rows that you need.
+
+* Write the rows of data that would represent the queries that you make (`SELECT` and `INSERT` queries)
+
+* Write the actual SQL statments to create the tables, and then the `INSERT` queries needed to create rows in those tables.
+
+* Write the SQL to get the data back out for each page.
+
+* Some furthers ask for some analytical data. Make sure when coding through the process that you are capturing this data.
+
+* Do this for each further section below. **Do the whole workflow for each further. Don't just write the ERD for all sections at once and go back to write SQL, etc.**
+
+### Basic Deliverables
+
+We want to enable Customers to be able to choose `Food Items` from The Menu, add to the `Cart`, which has many Food Items, then see the ones chosen, then checkout and `Pay`.
+
 Work backwards by first imagining the pages that will display the data needed for each step of the user flow.
 
+Example
 - User sees menu items
 - User clicks to add to cart, sees items in cart
 - User Checks out and pays
 - Kitchen Staff sees order and fulfills it.
-
-For each of these pages what kind of data is suggested that you store and display? (`SELECT` and `INSERT` queries)
-
-On a piece of paper write the tables and columns and rows that you need.
-
-On a piece of paper write the rows of data that would represent the queries that you make (`SELECT` and `INSERT` queries)
-
-Write the actual SQL statments to create the tables, and then the `INSERT` queries needed to create rows in those tables.
-
-Write the SQL to get the data back out for each page.
-
-Some furthers ask for some analytical data. Make sure when coding through the process that you are capturing this data.
-
-Do this for each further section below. Do the whole workflow for each further. Don't just write the ERD for all sections at once and go back to write SQL, etc.
 
 #### further
 
