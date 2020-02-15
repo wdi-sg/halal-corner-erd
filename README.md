@@ -37,8 +37,8 @@ Work backwards by first imagining the pages that will display the data needed fo
 
 Example
 - Customer sees menu items
-- Customer clicks to add to cart, sees items in cart
-- Customer Checks out and pays
+- Customer clicks to add to order
+- Customer checks out and pays
 - Kitchen Staff sees order and fulfills it.
 
 #### further
@@ -47,11 +47,7 @@ There are Promotional Food Items that will appear on The Menu on Tuesday to Frid
 
 #### further
 
-
-At 6pm each day, the store has to be able to tell that their Ingredients are still sufficient for the food making until the next 6pm.
-
-#### further
-And we want to know when to order the ingredients again.
+At 6pm each day, the store has to be able to tell that their Ingredients are still sufficient for the food making until the next 6pm. For example, if you used 5 apples today, and have 4 apples left, you need to stock up.
 
 #### further
 
@@ -69,7 +65,6 @@ We want to show customers the amount of calories for each Food Item.
 
 #### further
 
-
 We buy Ingredients from many different Suppliers where some Suppliers sell us many different Ingredients and sometimes we switch to a cheaper Supplier to make more profit.
 
 #### further
@@ -84,22 +79,15 @@ We want to be able to find out which Period has the most number of customers pay
 
 #### further
 
-
 We want to find out the most popular food.
 
 #### further
-
 
 We want to find out the ranking of the top 10 food.
 
 #### further
 
-
 We will have an advertisement for our secret recipie ayam penyet next week and we want to find out the increase in sales due to the advertisement.
-
-
-
-
 
 #### further
 
